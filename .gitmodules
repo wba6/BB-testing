@@ -1,0 +1,3 @@
+[submodule "vender/BlackLib"]
+	path = vender/BlackLib
+	url = https://github.com/wba6/BlackLib
